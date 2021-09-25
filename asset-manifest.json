@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hrachocode.github.io/csb-bu76k/static/css/main.3406d439.chunk.css",
+    "main.js": "https://hrachocode.github.io/csb-bu76k/static/js/main.dc9b621d.chunk.js",
+    "main.js.map": "https://hrachocode.github.io/csb-bu76k/static/js/main.dc9b621d.chunk.js.map",
+    "runtime-main.js": "https://hrachocode.github.io/csb-bu76k/static/js/runtime-main.d1a7c74b.js",
+    "runtime-main.js.map": "https://hrachocode.github.io/csb-bu76k/static/js/runtime-main.d1a7c74b.js.map",
+    "static/js/2.c1eba9fd.chunk.js": "https://hrachocode.github.io/csb-bu76k/static/js/2.c1eba9fd.chunk.js",
+    "static/js/2.c1eba9fd.chunk.js.map": "https://hrachocode.github.io/csb-bu76k/static/js/2.c1eba9fd.chunk.js.map",
+    "index.html": "https://hrachocode.github.io/csb-bu76k/index.html",
+    "static/css/main.3406d439.chunk.css.map": "https://hrachocode.github.io/csb-bu76k/static/css/main.3406d439.chunk.css.map",
+    "static/js/2.c1eba9fd.chunk.js.LICENSE.txt": "https://hrachocode.github.io/csb-bu76k/static/js/2.c1eba9fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1a7c74b.js",
+    "static/js/2.c1eba9fd.chunk.js",
+    "static/css/main.3406d439.chunk.css",
+    "static/js/main.dc9b621d.chunk.js"
+  ]
+}
